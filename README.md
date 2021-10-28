@@ -9,8 +9,8 @@ iii. Start coding
 # Small Note
 The JavaScript file will hold jQuery code and you can use this code for your project just say where you got it from
 # Features
-Responive Design
-Footer with Social Media icons and App store icons
+Responive Design,
+Footer with Social Media icons and App store icons,
 Carousel animations
 # Deploy
 Used Vercel to deploy website
